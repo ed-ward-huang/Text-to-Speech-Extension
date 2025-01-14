@@ -1,4 +1,4 @@
-# Read Aloud Chrome Extension
+# Text to Speech Chrome Extension
 
 A simple Chrome extension that allows users to read aloud selected text on a webpage. It supports adjusting the reading speed and choosing different voices, making it a versatile tool for accessibility.
 
